@@ -3,9 +3,9 @@
 GapMinder collects data from a handful of sources, including the Institute for Health Metrics and Evaluation, US Census Bureau's 
 International Database, United Nations Statistics Division and the World Bank
 
-In this ocassion I analyse the relation between Co2 emissions as Explanatory variable and breast cancer as response variable. I find that the p value is equal to 0.000183 therefore exists relation between two variables because p < 0.05 (reject the null hypotesis) 
+In this occasion I analyse the relation between Co2 emissions as Explanatory variable and breast cancer as response variable. I find that the p value is equal to 0.000183 therefore exists relation between two variables because p or alpha value is less than 0.05 (reject the null hypothesis) 
 
-Figure 1
+###Output
 
 ![alt tag](https://github.com/marlonsvl/basicLinearRegressionModel/blob/master/images/img1.png)
 
